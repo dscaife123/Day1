@@ -1,0 +1,41 @@
+body {
+	background-color:#FFFF00;
+	height:200px;
+	margin:50px;
+}
+
+.container {
+	width:90%;
+	background-color:orange;
+	margin: 0 auto;
+}
+
+header {
+	background-color:#33CC33;
+	height: 60px;
+}
+nav {
+	background-color:#FF0000;
+	height:350px;
+	width:700px;
+}
+
+main {
+	background-color:#99CCFF;
+	float:right;
+	height:350px;
+	width:400px;
+
+}
+
+aside {
+	background-color:#666699;
+	height:60px;
+	position:absolute;
+	float:bottom;
+}
+
+footer {
+
+	background-color:gray;
+}
